@@ -13,7 +13,7 @@ Also I will be uploading all **LeetCode** solution as I complete
 |-------|-------------------------------------|-----------|----------------|
 | ✅     | *. C++ basics                   | Completed | [Cpp-Basics Repo](https://github.com/Madansingh7/Cpp-Basics) |
 | ✅     | 1. Time Complexity                   | Completed | [01_TimeComplexity](https://github.com/Madansingh7/DSA-in-Cpp/tree/main/01_TimeComplexity) |
-| ✅     | 2. Arrays basic                           | Completed | [02_Arrays](https://github.com/Madansingh7/02_Arrays)|
+| ✅     | 2. Arrays basic                           | Completed | [02_Arrays](https://github.com/Madansingh7/DSA-in-Cpp/tree/main/02_Arrays)|
 | 🔄     | 3. Searching & Sorting               | In Progres | `/03_SearchSort/`    |
 | 🔄     | 4. Strings                           | In Progress | `/04_Strings/`    |
 | 🔄     | 5. 2D Arrays                         | In Progress | `/05_2DArrays/`   |
