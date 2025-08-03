@@ -20,10 +20,6 @@ Also I will be uploading all **LeetCode** solution as I complete
 | 🔜     | 6. OOPs in C++                       | Upcoming  | `/06_OOPs/`         |
 | 🔜     | 7. Linked Lists                      | Upcoming  | `/07_LinkedList/`   |
 | 🔜     | 8. Stacks and Queues                 | Upcoming  | `/08_StackQueue/`   |
-| 🔜     | 9. Trees                             | Upcoming  | `/09_Trees/`        |
-| 🔜     | 10. Graphs                           | Upcoming  | `/10_Graphs/`       |
-| 🔜     | 11. Recursion & Backtracking         | Upcoming  | `/11_Recursion/`    |
-| 🔜     | 12. Dynamic Programming              | Upcoming  | `/12_DP/`           |
 
 ---
 
