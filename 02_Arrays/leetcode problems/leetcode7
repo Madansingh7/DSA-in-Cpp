@@ -1,0 +1,40 @@
+// Intuition
+// To reverse the digits of an integer, we repeatedly extract the last digit using modulo (%10) and build the reversed number by pushing that digit to the right place (i.e., rev = rev * 10 + digit).
+
+// Approach
+// Initialize rev = 0. (took long bcz to over come overflow & keep values without rounding)
+
+// Loop while x != 0:
+
+// Extract last digit: digit = x % 10.
+
+// Update rev = rev * 10 + digit.
+
+// Remove last digit: x /= 10.
+
+// Check for overflow before:
+
+// --> If rev > INT_MAX/10 or rev < INT_MIN/10, return 0.
+
+// Return rev
+// Complexity
+// Time complexity: O(n)
+// Space complexity: O(1)
+
+class Solution {
+public:
+    int reverse(int x) {
+
+        long long rev=0;//took long long to avoid overflow
+
+        while(x!=0){
+            int num = x%10;
+            rev=(rev*10) + num;
+            x/=10;
+        }
+
+        if(rev<INT_MIN || rev>INT_MAX) return 0;//checking for overflow
+
+        return (int)rev;
+    }
+};
